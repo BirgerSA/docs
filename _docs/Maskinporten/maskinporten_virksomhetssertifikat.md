@@ -37,7 +37,7 @@ Vi viser til [Norges tillitsliste](https://www.nkom.no/internett/elektronisk-id-
 
 Lenke til utstedere:
 
-Buypass: [https://www.buypass.no/produkter/virksomhetssertifikat-esegl/bestill-testsertifikat-VID-Norge](https://www.buypass.no/produkter/virksomhetssertifikat-esegl/bestill-testsertifikat-VID-Norge)
+Buypass: [https://www.buypass.no/produkter/virksomhetssertifikat-esegl/bestill-testsertifikat-vid-europa](https://www.buypass.no/produkter/virksomhetssertifikat-esegl/bestill-testsertifikat-vid-europa)
 
 Commfides: [https://www.commfides.com/commfides-virksomhetssertifikat/testsertifikat/](https://www.commfides.com/commfides-virksomhetssertifikat/testsertifikat/)
 
@@ -45,7 +45,7 @@ Commfides: [https://www.commfides.com/commfides-virksomhetssertifikat/testsertif
 
 Nei, i testmiljøene må man ha et test-virksomhetssertifikat. Dette bestilles også fra Buypass og Commfides.
 
-Buypass: [https://www.buypass.no/produkter/virksomhetssertifikat-esegl/virksomhetssertifikat-for-norge](https://www.buypass.no/produkter/virksomhetssertifikat-esegl/bestill-testsertifikat-vid-europa)
+Buypass: [https://www.buypass.no/produkter/virksomhetssertifikat-esegl/bestill-testsertifikat-vid-europa](https://www.buypass.no/produkter/virksomhetssertifikat-esegl/bestill-testsertifikat-vid-europa)
 
 Commfides: [https://www.commfides.com/commfides-virksomhetssertifikat/](https://www.commfides.com/commfides-virksomhetssertifikat/)
 
